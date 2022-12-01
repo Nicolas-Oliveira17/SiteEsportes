@@ -1,0 +1,112 @@
+body{
+    background-color:  rgba(255, 235, 205, 0.404);
+}
+
+
+.link{
+    font-size: 20px;
+}
+
+
+.pagnicial{
+    font-size: 50px;
+}
+
+.texto{
+    font-size: 27px;
+    padding: 25px;
+}
+
+.img{
+    width: 65%;
+    
+}
+
+.img2{
+    width: 50%;
+    border: 1px solid rgb(136, 11, 28);
+}
+
+.imghoquei{
+    width: 50%;
+    border: 1px solid rgb(79, 161, 155);
+}
+
+.imgbase{
+     width: 50%;
+     border: 1px solid rgb(35, 192, 56);
+}
+
+.ligas{
+     width: 35%;
+     float: right;
+}
+
+.basquete{
+    width: 50%;
+    border: 1px solid rgb(214, 134, 29); 
+}
+
+.textoba{
+    text-align: left;
+    font-size: 27px;
+}
+
+.texamericano{
+    font-size: 27px;
+    text-align: left;
+}
+
+.texbase{
+    font-size: 27px;
+    text-align: left;
+}
+
+.textgelo{
+    font-size: 27px;
+    text-align: left;
+}
+
+h1{
+    text-shadow: 5px 4px 4px rgba(214, 14, 41, 0.835);
+   font-size: 50px; 
+   text-align: center;
+}
+
+.h2{
+    font-size: 50px;
+    text-shadow: 5px 4px 4px rgba(197, 29, 29, 0.642);
+}
+
+.h3{
+    font-size: 50px;
+    text-shadow: 5px 4px 4px rgba(238, 103, 13, 0.642);
+}
+
+.h4{
+    text-shadow: 5px 4px 4px rgb(45, 218, 117);
+    font-size: 50px;
+}
+
+.h5{
+    text-shadow: 5px 4px 4px rgba(13, 238, 227, 0.642);
+    font-size: 50px;
+}
+
+nav{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-bottom: outset 2px black;
+    font-size: 25px;  
+}
+
+a:link{
+    color: rgb(236, 87, 61);
+}
+
+
+
+
+
